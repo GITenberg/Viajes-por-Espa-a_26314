@@ -1,0 +1,34 @@
+_repo: Viajes-por-Espa-a_26314
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alarcón, Pedro Antonio de
+    aliases:
+    - Ariza, Pedro Antonio de Alarcón y
+    - Alarcon, Pedro Antonio de
+    - De Alarcón, Pedro Antonio
+    birthdate: 1833
+    deathdate: 1891
+    gutenberg_agent_id: '6108'
+    url: http://www.gutenberg.org/2009/agents/6108
+    wikipedia:
+    - http://es.wikipedia.org/wiki/Pedro_Antonio_de_Alarcón
+    - http://en.wikipedia.org/wiki/Pedro_Antonio_de_Alarcón
+description: ''
+gutenberg_issued: '2008-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26314'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spain -- Description and travel'
+- !lcc 'DP'
+- !lcsh 'Spain -- Social life and customs -- 19th century'
+title: Viajes por España
+url: http://www.gutenberg.org/ebooks/26314
